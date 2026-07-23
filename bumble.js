@@ -79,7 +79,7 @@ function next(){
 
 if(i>=conversation.length){
 
-setTimeout(showGiftQuestion,700);
+setTimeout(showGiftQuestion,400);
 
 return;
 }
