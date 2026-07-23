@@ -137,7 +137,7 @@ document.body.innerHTML=`
 <p>
 Thank you for choosing me:*
 
-Look for clues under the glovebox. 
+Look for clues in you Notes app. 
 </p>
 
 <div class="heart">
