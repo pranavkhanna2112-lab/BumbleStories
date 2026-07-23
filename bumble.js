@@ -96,7 +96,7 @@ messages.scrollTop=messages.scrollHeight;
 
 i++;
 
-setTimeout(next,1800);
+setTimeout(next,900);
 
 }
 
