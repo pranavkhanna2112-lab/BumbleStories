@@ -55,15 +55,21 @@ const conversation=[
 
 ["left","Hey Noni 😊"],
 ["right","Hi Panni!"],
-["left","Didn't expect we'd actually match 😂"],
-["right","Me neither haha"],
-["left","I'm glad we swiped right ❤️"],
-["right","Awww 🥹"],
-["left","i only drink matcha btw"],
-["right","nikal jhute"],
-["left","can i ask you something?"],
-["right","Sure"],
-["left","Do you want your gift? 🎁"]
+["left","Didn't think we'd actually match, but I'm not complaining 🤭"],
+["left","Best swipe decision I've made ❤️"],
+["right","Smooth. Do you use that line on everyone? 😏"],
+["left","Only on girls who are actually pretty."],
+["right","Hahaha shut up 😂"],
+["left","No seriously... you look really pretty in your photo. 😊"],
+["right","I hope ab meri photo CHYAAR BAAR nahi dekh jaa rahi hogi 👀😂"],
+["left","Too late... I lost count after five. 🤭"],
+["right","Stalker vibes 😭😂"],
+["left","Research... there's a difference 😌"],
+["right","Hahaha okay Mr. Research 😂"],
+["left","By the way... I only drink matcha ☕️"],
+["right","Nikal jhoothe 🤥"],
+["left","Aacha, Can I ask you something?"],
+["right","Go ahead 👀"],
 
 ];
 
