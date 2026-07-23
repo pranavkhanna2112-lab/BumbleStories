@@ -53,13 +53,15 @@ const messages=document.getElementById("messages");
 
 const conversation=[
 
-["left","Hey 😊"],
-["right","Hi!"],
+["left","Hey Noni 😊"],
+["right","Hi Panni!"],
 ["left","Didn't expect we'd actually match 😂"],
 ["right","Me neither haha"],
-["left","I'm glad I swiped right ❤️"],
+["left","I'm glad we swiped right ❤️"],
 ["right","Awww 🥹"],
-["left","Can I ask you something?"],
+["left","i only drink matcha btw"],
+["right","nikal jhute"],
+["left","can i ask you something?"],
 ["right","Sure"],
 ["left","Do you want your gift? 🎁"]
 
@@ -127,7 +129,9 @@ document.body.innerHTML=`
 <h1>I Love You ❤️</h1>
 
 <p>
-Thank you for choosing me every single day.
+Thank you for choosing me:*
+
+Look for clues under the glovebox. 
 </p>
 
 <div class="heart">
